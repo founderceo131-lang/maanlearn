@@ -1,5 +1,5 @@
 const CACHE = 'maanlearn-pwa-v5-logo';
-const STATIC_ASSETS = ['./manifest.json', './icons/icon-192.png', './icons/icon-512.png'];
+const STATIC_ASSETS = ['./manifest.json', './assets/icons/icon-192.png', './assets/icons/icon-512.png'];
 
 const OFFLINE_PAGE = `<!doctype html>
 <html lang="en">
